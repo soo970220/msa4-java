@@ -2,6 +2,7 @@ package com.msa4java.edu;
 
 public class E01Variable {
     public static void main(String[] args) {
+
         //변수선언
         int age;
         age = 1;

@@ -17,3 +17,7 @@
         public abstract void residence();
 
     }
+
+
+
+
